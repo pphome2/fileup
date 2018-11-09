@@ -10,24 +10,25 @@
 
 $COPYRIGHT="© 2018. <a target='_blank' href=https://github.com/pphome2/fileup>FileUP</a>";
 
-# Karakter1
-$DM_PASS="196f9674066aa625b539c2d677d0b676";
+# need md5 passcode
+$FU_PASS="5f4dcc3b5aa765d61d8327deb882cf99";
 
-$DM_SITENAME="FileUP";
-$DM_SITE_HOME="https://github.com/pphome2";
-$DM_DOC_ROOT=".";
-$DM_CONFIG_DIR="config";
 
-$DM_CSS="site.css";
-$DM_CSS2="";
-$DM_JS_BEGIN="";
-$DM_JS_END="js_end.js";
-$DM_HEADER="header.php";
-$DM_FOOTER="footer.php";
+$FU_SITENAME="FileUP";
+$FU_SITE_HOME="https://github.com/pphome2";
+$FU_DOC_ROOT=".";
+$FU_CONFIG_DIR="config";
+
+$FU_CSS="site.css";
+$FU_CSS2="";
+$FU_JS_BEGIN="";
+$FU_JS_END="js_end.js";
+$FU_HEADER="header.php";
+$FU_FOOTER="footer.php";
 
 # language
 
-$DM_LANGFILE="hu.php";
+$FU_LANGFILE="hu.php";
 
 $DIR_FILES="files";
 

@@ -2,10 +2,10 @@
 
 
 include("config/config.php");
-include("config/$DM_LANGFILE");
-include("$DM_HEADER");
-include("$DM_CSS2");
-include("$DM_JS_BEGIN");
+include("config/$FU_LANGFILE");
+include("$FU_HEADER");
+include("$FU_CSS2");
+include("$FU_JS_BEGIN");
 
 
 
@@ -131,8 +131,8 @@ function fileup2($fname,$tdir='./',$delifexists=FALSE,$fsize=1000000,$onlyimg=FA
 
 
 
-include("$DM_JS_END");
-include("$DM_FOOTER");
+include("$FU_JS_END");
+include("$FU_FOOTER");
 
 
 ?>
